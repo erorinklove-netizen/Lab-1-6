@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Lab 1.6\\x64\\Debug\\Equilateral.obj",
+            "outputs": [
+                "Lab 1.6\\x64\\Debug\\Equilateral.h.obj.dt.module.json",
+                "Lab 1.6\\x64\\Debug\\Equilateral.h.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
